@@ -12,12 +12,17 @@ bla bla bla
 bla bla bla
 
 **bold text**
+
 *italic text*
-~~strikethrough text~~~
+
+~~strikethrough text~~
+
 **bold and _nested_ text**
+
 ***bold and italix***
 
 and this is
+
 >Some quote bla bla bla
 
 Page made by [Marcin Waś](https://github.com/marcinwas)
