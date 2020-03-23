@@ -13,7 +13,7 @@ bla bla bla
 
 **bold text**
 *italic text*
-~~strikethrough text~~~
+~~strikethrough text~~
 **bold and _nested_ text**
 ***bold and italix***
 
